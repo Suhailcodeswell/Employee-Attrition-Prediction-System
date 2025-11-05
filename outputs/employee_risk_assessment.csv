@@ -1,0 +1,295 @@
+EmployeeID,AttritionProbability,RiskScore,ActualAttrition,RiskTier,RiskGuidance
+1061,0.2777112326503375,27.8,0,LOW,Standard engagement
+891,0.01816267365205756,1.8,0,LOW,Standard engagement
+456,0.32798550166956253,32.8,0,MEDIUM,Monitor and engage regularly
+922,0.005814950398339792,0.6,0,LOW,Standard engagement
+69,0.6336842333967809,63.4,1,HIGH,Proactive retention actions needed
+1164,0.43343090345382285,43.3,0,MEDIUM,Monitor and engage regularly
+406,0.04324010656027626,4.3,0,LOW,Standard engagement
+1330,0.022220824726013805,2.2,0,LOW,Standard engagement
+1232,0.01829348681740744,1.8,0,LOW,Standard engagement
+1311,0.46892842501541393,46.9,0,MEDIUM,Monitor and engage regularly
+1212,0.22272834202696543,22.3,0,LOW,Standard engagement
+771,0.21597965649949658,21.6,0,LOW,Standard engagement
+196,0.33037150061128845,33.0,0,MEDIUM,Monitor and engage regularly
+1274,0.37292362414098895,37.3,0,MEDIUM,Monitor and engage regularly
+930,0.24283545747677904,24.3,0,LOW,Standard engagement
+318,0.6616130561633327,66.2,0,HIGH,Proactive retention actions needed
+403,0.03876444903802203,3.9,0,LOW,Standard engagement
+261,0.06612086094808772,6.6,0,LOW,Standard engagement
+602,0.5382081414096641,53.8,0,HIGH,Proactive retention actions needed
+1458,0.0804539004841387,8.0,0,LOW,Standard engagement
+645,0.5308880191384499,53.1,1,HIGH,Proactive retention actions needed
+985,0.3477708167271116,34.8,1,MEDIUM,Monitor and engage regularly
+854,0.29868868030119844,29.9,0,LOW,Standard engagement
+1098,0.21367028986816516,21.4,0,LOW,Standard engagement
+788,0.031956130160454115,3.2,0,LOW,Standard engagement
+397,0.7252064800162191,72.5,0,CRITICAL,Immediate intervention required
+1263,0.15287867902751018,15.3,0,LOW,Standard engagement
+136,0.0724368283525636,7.2,1,LOW,Standard engagement
+704,0.019069558827768552,1.9,0,LOW,Standard engagement
+45,0.02581596468729853,2.6,1,LOW,Standard engagement
+1150,0.026922999764528305,2.7,0,LOW,Standard engagement
+901,0.14795346078003974,14.8,0,LOW,Standard engagement
+603,0.1903084514948779,19.0,0,LOW,Standard engagement
+821,0.059838810549708944,6.0,0,LOW,Standard engagement
+671,0.2785889594935224,27.9,0,LOW,Standard engagement
+514,0.8453470996604032,84.5,1,CRITICAL,Immediate intervention required
+78,0.17477680466551357,17.5,0,LOW,Standard engagement
+1393,0.07157778081260703,7.2,0,LOW,Standard engagement
+874,0.07447534615297473,7.4,0,LOW,Standard engagement
+709,0.8871973218981951,88.7,1,CRITICAL,Immediate intervention required
+189,0.0138358951925984,1.4,0,LOW,Standard engagement
+841,0.6474138347439552,64.7,0,HIGH,Proactive retention actions needed
+235,0.027268774708151797,2.7,0,LOW,Standard engagement
+1371,0.11471726998229706,11.5,0,LOW,Standard engagement
+1141,0.4596650105786139,46.0,0,MEDIUM,Monitor and engage regularly
+1342,0.11808941332514168,11.8,0,LOW,Standard engagement
+1238,0.5061498244378465,50.6,0,HIGH,Proactive retention actions needed
+1215,0.47159241159218745,47.2,0,MEDIUM,Monitor and engage regularly
+240,0.04837802760883868,4.8,0,LOW,Standard engagement
+374,0.14556291420983347,14.6,0,LOW,Standard engagement
+1047,0.16848916779898518,16.8,0,LOW,Standard engagement
+1361,0.05246803998461419,5.2,0,LOW,Standard engagement
+1451,0.06390248488756138,6.4,0,LOW,Standard engagement
+1100,0.3008445198912128,30.1,0,MEDIUM,Monitor and engage regularly
+596,0.06765386760544652,6.8,0,LOW,Standard engagement
+522,0.0861402795133204,8.6,0,LOW,Standard engagement
+448,0.06097461884810324,6.1,0,LOW,Standard engagement
+132,0.9129017516480272,91.3,1,CRITICAL,Immediate intervention required
+572,0.5215783824600915,52.2,0,HIGH,Proactive retention actions needed
+897,0.06992892362640406,7.0,0,LOW,Standard engagement
+1026,0.08821885221711954,8.8,0,LOW,Standard engagement
+1210,0.010855202250366163,1.1,0,LOW,Standard engagement
+191,0.07297757813543658,7.3,0,LOW,Standard engagement
+1293,0.48335397712227984,48.3,0,MEDIUM,Monitor and engage regularly
+1469,0.16241283089316483,16.2,0,LOW,Standard engagement
+1280,0.03614133648316246,3.6,0,LOW,Standard engagement
+66,0.2175881505292257,21.8,0,LOW,Standard engagement
+1297,0.3343299247372254,33.4,1,MEDIUM,Monitor and engage regularly
+1028,0.3160421947007306,31.6,0,MEDIUM,Monitor and engage regularly
+850,0.10891709341895656,10.9,0,LOW,Standard engagement
+1450,0.20006528525853948,20.0,0,LOW,Standard engagement
+137,0.02856690941225449,2.9,0,LOW,Standard engagement
+919,0.014687378390328002,1.5,0,LOW,Standard engagement
+1219,0.19658684048043407,19.7,0,LOW,Standard engagement
+114,0.1216015593535082,12.2,0,LOW,Standard engagement
+1346,0.034863559253505344,3.5,0,LOW,Standard engagement
+1054,0.004137055628230065,0.4,0,LOW,Standard engagement
+223,0.017144529167246857,1.7,0,LOW,Standard engagement
+1341,0.211776386943112,21.2,0,LOW,Standard engagement
+173,0.07638502690973818,7.6,0,LOW,Standard engagement
+1253,0.14589190062312435,14.6,0,LOW,Standard engagement
+762,0.9089404989192656,90.9,1,CRITICAL,Immediate intervention required
+126,0.05148714320391022,5.1,1,LOW,Standard engagement
+25,0.0012980973944398094,0.1,0,LOW,Standard engagement
+1350,0.0900240522784836,9.0,0,LOW,Standard engagement
+1229,0.3893912153515263,38.9,0,MEDIUM,Monitor and engage regularly
+471,0.024226632123522284,2.4,0,LOW,Standard engagement
+789,0.07960102887036109,8.0,1,LOW,Standard engagement
+459,0.5053870012405693,50.5,0,HIGH,Proactive retention actions needed
+1211,0.07051357101914982,7.1,0,LOW,Standard engagement
+178,0.04302991145521763,4.3,0,LOW,Standard engagement
+190,0.006330298956880445,0.6,0,LOW,Standard engagement
+911,0.9254447137297966,92.5,1,CRITICAL,Immediate intervention required
+697,0.10137448766405688,10.1,0,LOW,Standard engagement
+292,0.12559389180155925,12.6,0,LOW,Standard engagement
+1021,0.8883928784718336,88.8,1,CRITICAL,Immediate intervention required
+1168,0.5604539105204374,56.0,0,HIGH,Proactive retention actions needed
+217,0.09154405889171272,9.2,1,LOW,Standard engagement
+1433,0.3985015446332762,39.9,0,MEDIUM,Monitor and engage regularly
+961,0.4697214949697105,47.0,0,MEDIUM,Monitor and engage regularly
+770,0.005299163079145695,0.5,0,LOW,Standard engagement
+824,0.6463723424423669,64.6,0,HIGH,Proactive retention actions needed
+577,0.3051600481446754,30.5,0,MEDIUM,Monitor and engage regularly
+1248,0.08812811582808038,8.8,0,LOW,Standard engagement
+1391,0.6877984301815062,68.8,0,HIGH,Proactive retention actions needed
+1447,0.13427015770900458,13.4,0,LOW,Standard engagement
+670,0.22941145379592187,22.9,0,LOW,Standard engagement
+257,0.0019607450786217864,0.2,0,LOW,Standard engagement
+953,0.2660231734706172,26.6,1,LOW,Standard engagement
+1117,0.21964812504854186,22.0,0,LOW,Standard engagement
+1145,0.67810896193117,67.8,0,HIGH,Proactive retention actions needed
+819,0.3802454302002386,38.0,0,MEDIUM,Monitor and engage regularly
+956,0.009702237009652044,1.0,0,LOW,Standard engagement
+53,0.6128502187074267,61.3,0,HIGH,Proactive retention actions needed
+967,0.15719185339103411,15.7,0,LOW,Standard engagement
+686,0.08319215446761456,8.3,0,LOW,Standard engagement
+581,0.13675093962893492,13.7,0,LOW,Standard engagement
+465,0.07880276173551828,7.9,0,LOW,Standard engagement
+44,0.032633149871831704,3.3,0,LOW,Standard engagement
+846,0.04803813263916023,4.8,0,LOW,Standard engagement
+179,0.13063369446102047,13.1,0,LOW,Standard engagement
+559,0.6821340199750413,68.2,0,HIGH,Proactive retention actions needed
+1078,0.06197799430156512,6.2,0,LOW,Standard engagement
+1328,0.15173679656197211,15.2,0,LOW,Standard engagement
+929,0.6003975568858682,60.0,0,HIGH,Proactive retention actions needed
+27,0.11057549941616737,11.1,0,LOW,Standard engagement
+1226,0.5018934813616962,50.2,0,HIGH,Proactive retention actions needed
+293,0.7683715175548077,76.8,1,CRITICAL,Immediate intervention required
+1250,0.4139975716978082,41.4,0,MEDIUM,Monitor and engage regularly
+950,0.24475953521649602,24.5,0,LOW,Standard engagement
+182,0.6002559078394633,60.0,1,HIGH,Proactive retention actions needed
+867,0.0027268313236551846,0.3,0,LOW,Standard engagement
+562,0.2649810900889512,26.5,1,LOW,Standard engagement
+665,0.4122804823428754,41.2,0,MEDIUM,Monitor and engage regularly
+148,0.14372754666519116,14.4,0,LOW,Standard engagement
+1402,0.21473861910312877,21.5,0,LOW,Standard engagement
+684,0.4133613907101593,41.3,0,MEDIUM,Monitor and engage regularly
+372,0.5405304353336665,54.1,0,HIGH,Proactive retention actions needed
+1002,0.17555492119744265,17.6,0,LOW,Standard engagement
+955,0.00710822148884098,0.7,0,LOW,Standard engagement
+1009,0.004268697675090065,0.4,0,LOW,Standard engagement
+340,0.029404627623032073,2.9,0,LOW,Standard engagement
+274,0.19921075711864508,19.9,0,LOW,Standard engagement
+310,0.468133601942617,46.8,0,MEDIUM,Monitor and engage regularly
+864,0.6951969423682048,69.5,1,HIGH,Proactive retention actions needed
+117,0.009619468036524727,1.0,0,LOW,Standard engagement
+1241,0.4048693572224829,40.5,0,MEDIUM,Monitor and engage regularly
+449,0.0705149481386674,7.1,0,LOW,Standard engagement
+160,0.08448811267073766,8.4,0,LOW,Standard engagement
+390,0.02404769960158897,2.4,0,LOW,Standard engagement
+1048,0.09642953004253334,9.6,0,LOW,Standard engagement
+1073,0.2501125332322462,25.0,0,LOW,Standard engagement
+998,0.2792970573417762,27.9,0,LOW,Standard engagement
+231,0.0031281545205863116,0.3,0,LOW,Standard engagement
+1146,0.09473929917824012,9.5,0,LOW,Standard engagement
+122,0.5915455948560706,59.2,1,HIGH,Proactive retention actions needed
+1442,0.5669668834357134,56.7,1,HIGH,Proactive retention actions needed
+978,0.03594649096991057,3.6,0,LOW,Standard engagement
+525,0.875336074039582,87.5,1,CRITICAL,Immediate intervention required
+1355,0.3936697990617235,39.4,0,MEDIUM,Monitor and engage regularly
+548,0.08500629716012231,8.5,0,LOW,Standard engagement
+477,0.020721539383723182,2.1,0,LOW,Standard engagement
+24,0.3320041379061886,33.2,1,MEDIUM,Monitor and engage regularly
+878,0.0472354846721984,4.7,0,LOW,Standard engagement
+547,0.3771287396815398,37.7,1,MEDIUM,Monitor and engage regularly
+1064,0.037929689658154186,3.8,0,LOW,Standard engagement
+779,0.27106843567472305,27.1,1,LOW,Standard engagement
+1366,0.5766468041221827,57.7,0,HIGH,Proactive retention actions needed
+2,0.6815248200938858,68.2,1,HIGH,Proactive retention actions needed
+245,0.15401224932518623,15.4,0,LOW,Standard engagement
+1467,0.5428358030443021,54.3,0,HIGH,Proactive retention actions needed
+242,0.10305712002902895,10.3,0,LOW,Standard engagement
+347,0.24932960948709068,24.9,0,LOW,Standard engagement
+747,0.7259222963200055,72.6,0,CRITICAL,Immediate intervention required
+382,0.14062850795933443,14.1,1,LOW,Standard engagement
+538,0.003599364326879368,0.4,0,LOW,Standard engagement
+732,0.43761696024037894,43.8,1,MEDIUM,Monitor and engage regularly
+269,0.013823140872019765,1.4,0,LOW,Standard engagement
+801,0.3020629936805813,30.2,1,MEDIUM,Monitor and engage regularly
+474,0.335171430667052,33.5,0,MEDIUM,Monitor and engage regularly
+180,0.529978164182176,53.0,0,HIGH,Proactive retention actions needed
+1220,0.1336506270790779,13.4,0,LOW,Standard engagement
+1434,0.12950910801745458,13.0,0,LOW,Standard engagement
+229,0.6853002053827079,68.5,1,HIGH,Proactive retention actions needed
+1055,0.06889439776782483,6.9,0,LOW,Standard engagement
+1190,0.011758999048144918,1.2,0,LOW,Standard engagement
+1307,0.07011611839792876,7.0,0,LOW,Standard engagement
+225,0.059962021066917864,6.0,0,LOW,Standard engagement
+1080,0.07595325231384943,7.6,0,LOW,Standard engagement
+1349,0.7002928126690972,70.0,0,CRITICAL,Immediate intervention required
+1186,0.41082361770651776,41.1,1,MEDIUM,Monitor and engage regularly
+246,0.09585207401411462,9.6,0,LOW,Standard engagement
+617,0.4072246811163336,40.7,0,MEDIUM,Monitor and engage regularly
+123,0.03473725180874113,3.5,0,LOW,Standard engagement
+1040,0.012880360126649639,1.3,0,LOW,Standard engagement
+551,0.1251779202384977,12.5,0,LOW,Standard engagement
+1204,0.09514471611781873,9.5,1,LOW,Standard engagement
+1144,0.35320581131975126,35.3,0,MEDIUM,Monitor and engage regularly
+795,0.14782876096219544,14.8,0,LOW,Standard engagement
+764,0.2511736849358531,25.1,0,LOW,Standard engagement
+688,0.936541613789087,93.7,1,CRITICAL,Immediate intervention required
+222,0.03102764958772438,3.1,0,LOW,Standard engagement
+934,0.19603484576813818,19.6,0,LOW,Standard engagement
+535,0.036767463577978506,3.7,0,LOW,Standard engagement
+17,0.3449041687319735,34.5,0,MEDIUM,Monitor and engage regularly
+649,0.008653862818486093,0.9,0,LOW,Standard engagement
+766,0.03988338653105356,4.0,0,LOW,Standard engagement
+543,0.5756796813343531,57.6,0,HIGH,Proactive retention actions needed
+1216,0.11568010602478243,11.6,0,LOW,Standard engagement
+1397,0.07033749086012303,7.0,0,LOW,Standard engagement
+135,0.17232189389669283,17.2,0,LOW,Standard engagement
+916,0.012528634778954086,1.3,0,LOW,Standard engagement
+1264,0.020426990556430526,2.0,0,LOW,Standard engagement
+1079,0.14651477898655973,14.7,0,LOW,Standard engagement
+357,0.9017358307471242,90.2,1,CRITICAL,Immediate intervention required
+330,0.054164287713297975,5.4,0,LOW,Standard engagement
+156,0.1036078119086565,10.4,0,LOW,Standard engagement
+1035,0.07417799498095533,7.4,0,LOW,Standard engagement
+3,0.22032049626800373,22.0,0,LOW,Standard engagement
+36,0.6333385283523035,63.3,1,HIGH,Proactive retention actions needed
+755,0.008329979588590795,0.8,0,LOW,Standard engagement
+715,0.34059724291257315,34.1,0,MEDIUM,Monitor and engage regularly
+780,0.513588376692,51.4,1,HIGH,Proactive retention actions needed
+301,0.6367814509772135,63.7,0,HIGH,Proactive retention actions needed
+729,0.603061303548153,60.3,0,HIGH,Proactive retention actions needed
+765,0.0954436309025202,9.5,0,LOW,Standard engagement
+476,0.3107972322894737,31.1,0,MEDIUM,Monitor and engage regularly
+483,0.5121306995362712,51.2,0,HIGH,Proactive retention actions needed
+455,0.012907400960476455,1.3,0,LOW,Standard engagement
+767,0.33180821376141423,33.2,0,MEDIUM,Monitor and engage regularly
+773,0.08359267155682282,8.4,0,LOW,Standard engagement
+724,0.06758488117673563,6.8,0,LOW,Standard engagement
+668,0.10779413268264511,10.8,0,LOW,Standard engagement
+1175,0.1578208926930404,15.8,0,LOW,Standard engagement
+104,0.0457125431386504,4.6,0,LOW,Standard engagement
+147,0.05703267626857904,5.7,0,LOW,Standard engagement
+965,0.0774396355248113,7.7,0,LOW,Standard engagement
+843,0.033384321041625635,3.3,0,LOW,Standard engagement
+663,0.20306699499674866,20.3,1,LOW,Standard engagement
+1118,0.24677342120138482,24.7,0,LOW,Standard engagement
+1111,0.0030320175735752,0.3,1,LOW,Standard engagement
+109,0.35004878873664486,35.0,0,MEDIUM,Monitor and engage regularly
+594,0.02011594579120911,2.0,0,LOW,Standard engagement
+1302,0.3525920639671467,35.3,0,MEDIUM,Monitor and engage regularly
+247,0.156891879002131,15.7,0,LOW,Standard engagement
+638,0.5337088031235193,53.4,0,HIGH,Proactive retention actions needed
+700,0.08359835432504721,8.4,1,LOW,Standard engagement
+16,0.1842534300466064,18.4,0,LOW,Standard engagement
+10,0.12110072845691021,12.1,0,LOW,Standard engagement
+604,0.15733118676461524,15.7,0,LOW,Standard engagement
+239,0.6685642682883649,66.9,1,HIGH,Proactive retention actions needed
+744,0.8001548476315522,80.0,1,CRITICAL,Immediate intervention required
+621,0.09651000403944542,9.7,0,LOW,Standard engagement
+1389,0.15487413446809065,15.5,0,LOW,Standard engagement
+1283,0.021065874494776565,2.1,0,LOW,Standard engagement
+300,0.04435534324740091,4.4,0,LOW,Standard engagement
+946,0.8260964346008881,82.6,1,CRITICAL,Immediate intervention required
+655,0.10349962556884262,10.3,0,LOW,Standard engagement
+241,0.2988085132851139,29.9,0,LOW,Standard engagement
+1416,0.018835381987991045,1.9,0,LOW,Standard engagement
+1288,0.006150460034469266,0.6,0,LOW,Standard engagement
+1399,0.05792490316674966,5.8,0,LOW,Standard engagement
+1322,0.007234718518060794,0.7,0,LOW,Standard engagement
+1267,0.04303804925105415,4.3,0,LOW,Standard engagement
+1468,0.025457973499366057,2.5,0,LOW,Standard engagement
+169,0.28101996378275135,28.1,0,LOW,Standard engagement
+1362,0.13409412795633785,13.4,0,LOW,Standard engagement
+1258,0.14226003373264495,14.2,0,LOW,Standard engagement
+1383,0.19052121901718336,19.1,0,LOW,Standard engagement
+557,0.0652073154621344,6.5,0,LOW,Standard engagement
+860,0.45260734846656064,45.3,1,MEDIUM,Monitor and engage regularly
+464,0.032452591070944496,3.2,0,LOW,Standard engagement
+345,0.094478138420147,9.4,0,LOW,Standard engagement
+496,0.47013518565811785,47.0,0,MEDIUM,Monitor and engage regularly
+772,0.015462181710467572,1.5,0,LOW,Standard engagement
+987,0.1302560976936785,13.0,0,LOW,Standard engagement
+711,0.8101517098060016,81.0,1,CRITICAL,Immediate intervention required
+742,0.19024499230072808,19.0,0,LOW,Standard engagement
+475,0.22700066151060364,22.7,0,LOW,Standard engagement
+326,0.11420730679844628,11.4,0,LOW,Standard engagement
+1147,0.10395260915744485,10.4,0,LOW,Standard engagement
+825,0.45444970691883485,45.4,0,MEDIUM,Monitor and engage regularly
+1449,0.13037819025729663,13.0,0,LOW,Standard engagement
+1296,0.3599426739837334,36.0,0,MEDIUM,Monitor and engage regularly
+41,0.07221362923721665,7.2,0,LOW,Standard engagement
+1384,0.27509547742334767,27.5,0,LOW,Standard engagement
+898,0.0050503510293136,0.5,0,LOW,Standard engagement
+829,0.8191759536033385,81.9,1,CRITICAL,Immediate intervention required
+818,0.17858273884959783,17.9,0,LOW,Standard engagement
+1269,0.020181691766716057,2.0,0,LOW,Standard engagement
+1352,0.10822411212261848,10.8,0,LOW,Standard engagement
+1236,0.6047869763691394,60.5,1,HIGH,Proactive retention actions needed
+1023,0.050284648557207906,5.0,0,LOW,Standard engagement
+285,0.01727200776564573,1.7,0,LOW,Standard engagement
